@@ -1,10 +1,6 @@
 # Hi there, I'm Shehan Perera 👋 
 ### Aspiring AI/ML Engineer | Full-Stack Developer | CS Undergraduate @ IIT
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=ShehanPerera002&color=0e75b6&style=flat" alt="ShehanPerera002" />
-</p>
-
 ---
 
 ### 💫 About Me:
@@ -35,18 +31,16 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📫 Connect with Me:
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShehanPerera002&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanPerera002&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://www.linkedin.com/in/shehan-perera-97a894194" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:oshada.shehan002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://shehanperera.xyz" target="blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" />
+</a>
 
 ---
-
-### 📫 Connect with Me:
-<p align="left">
-<a href="www.linkedin.com/in/shehan-perera-97a894194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shehan Perera" height="30" width="40" /></a>
-<a href="mailto:oshada.shehan002@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="oshada.shehan002@gmail.com" height="30" width="40" /></a>
-<a href="https://shehanperera.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="shehanperera.xyz" height="30" width="40" /></a>
-</p>
