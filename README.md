@@ -6,7 +6,7 @@
 ### 💫 About Me:
 - 🎓 **Undergraduate:** B.Sc. (Hons) Computer Science at Informatics Institute of Technology (IIT).
 - 🚀 **Focus:** Specializing in bridging the gap between traditional software engineering and modern AI.
-- 🛠️ **Expertise:** Hands-on experience in **React**, **Flutter**, **Java Spring Boot**, and **Python**.
+- 🛠️ **Expertise:** Hands-on experience in **React**, **Flutter**, **Java**, and **Python**.
 - 🧠 **AI/ML:** Passionate about Generative AI, Advanced Prompt Engineering, and TensorFlow.
 - 🎤 **Creative Side:** I'm also a **Vocalist & Performer**, which helps me bring creativity and confidence to everything I build!
 
