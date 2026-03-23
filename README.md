@@ -2,7 +2,7 @@
 ### Aspiring AI/ML Engineer | Full-Stack Developer | CS Undergraduate @ IIT
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=ShehanPerera002&label=Profile%20views&color=0e75b6&style=flat" alt="ShehanPerera002" />
+ <img src="https://komarev.com/ghpvc/?username=ShehanPerera002&color=0e75b6&style=flat" alt="ShehanPerera002" />
 </p>
 
 ---
@@ -32,7 +32,6 @@
 - 🏗️ **Techni (SDGP):** A Service Marketplace platform built with Flutter and Firebase, featuring a React-based admin panel with robust security rules.
 - 💎 **Gem Sea:** An AI-driven Jewelry E-commerce platform developed using React (TSX) and Java Spring Boot.
 - 🐍 **Python Suite:** Includes a Flight Reservation System, Task Manager (GUI), and an Educational Quiz App.
-- 🌐 **Matrix Portfolio:** A modern, highly interactive personal portfolio deployed on Netlify.
 
 ---
 
@@ -47,7 +46,7 @@
 
 ### 📫 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/ShehanPerera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shehan Perera" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shehan-perera-97a894194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shehan Perera" height="30" width="40" /></a>
 <a href="mailto:oshada.shehan002@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="oshada.shehan002@gmail.com" height="30" width="40" /></a>
 <a href="https://shehanperera.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="shehanperera.xyz" height="30" width="40" /></a>
 </p>
